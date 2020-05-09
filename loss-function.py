@@ -1,3 +1,6 @@
+import numpy as np
+
+
 def L_i(x, y, W):
   """
   unvectorized version. Compute the multiclass svm loss for a single example (x,y)
